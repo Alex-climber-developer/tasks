@@ -49,6 +49,7 @@ KEY_WORD={
   'ундециллион':10**36,
 }
 SUMM=0
+x=0
 inp=[]
 def convert(dict,a,b,a1,b1):
   for el in range(0,len(inp)):
